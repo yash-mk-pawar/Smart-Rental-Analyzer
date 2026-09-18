@@ -1,0 +1,501 @@
+property_id,neighborhood,bhk_size,sqft,furnishing,rent_monthly,maintenance_monthly,distance_to_transit_km,predicted_rent,price_difference
+1,Hinjewadi,3,1960,Semi-Furnished,39587,4565,1.4,40426.0,-839.0
+2,Wakad,3,1792,Unfurnished,34595,1545,0.9,35302.0,-707.0
+3,Wakad,2,1173,Unfurnished,23549,1710,0.8,25479.0,-1930.0
+4,Viman Nagar,3,1852,Unfurnished,38338,2672,2.7,38404.0,-66.0
+5,Wakad,2,1006,Unfurnished,24009,1687,2.5,24208.0,-199.0
+6,Kharadi,1,603,Fully Furnished,21215,2745,2.1,20264.0,951.0
+7,Kharadi,2,1307,Semi-Furnished,25305,3280,4.8,26010.0,-705.0
+8,Baner,3,1348,Fully Furnished,40041,2721,1.0,41550.0,-1509.0
+9,Wakad,2,880,Fully Furnished,32461,1963,4.0,32069.0,392.0
+10,Viman Nagar,3,1371,Semi-Furnished,40417,3692,2.3,39460.0,957.0
+11,Viman Nagar,2,1218,Semi-Furnished,27672,2801,1.8,27887.0,-215.0
+12,Kharadi,2,1250,Semi-Furnished,28286,3349,3.8,25775.0,2511.0
+13,Hinjewadi,1,722,Semi-Furnished,16720,4012,3.3,16415.0,305.0
+14,Viman Nagar,1,716,Unfurnished,12800,3837,2.1,12802.0,-2.0
+15,Baner,1,649,Fully Furnished,21327,2156,3.4,20721.0,606.0
+16,Baner,3,1461,Unfurnished,38242,3369,1.4,37674.0,568.0
+17,Baner,2,933,Semi-Furnished,30026,2768,4.2,29339.0,687.0
+18,Viman Nagar,1,758,Unfurnished,11553,4839,2.5,12075.0,-522.0
+19,Kharadi,1,601,Unfurnished,13394,2426,3.6,12928.0,466.0
+20,Viman Nagar,2,1010,Unfurnished,26676,3561,2.2,25908.0,768.0
+21,Kharadi,2,1165,Fully Furnished,32287,2314,1.0,31234.0,1053.0
+22,Wakad,3,1399,Unfurnished,37501,3894,4.4,37821.0,-320.0
+23,Viman Nagar,3,1557,Unfurnished,38348,4024,1.9,37978.0,370.0
+24,Viman Nagar,1,486,Semi-Furnished,12814,4350,0.4,13613.0,-799.0
+25,Hinjewadi,3,1947,Fully Furnished,43837,2206,1.3,43331.0,506.0
+26,Wakad,1,639,Semi-Furnished,12525,3228,4.2,13594.0,-1069.0
+27,Hinjewadi,3,1408,Unfurnished,37445,3828,0.9,37383.0,62.0
+28,Kharadi,1,592,Semi-Furnished,13745,2315,1.3,14223.0,-478.0
+29,Wakad,1,599,Fully Furnished,17851,2619,2.8,18563.0,-712.0
+30,Viman Nagar,3,1757,Semi-Furnished,37303,3060,3.5,37808.0,-505.0
+31,Baner,3,1870,Unfurnished,34749,3856,4.8,36584.0,-1835.0
+32,Baner,2,1233,Fully Furnished,29128,2967,1.3,30027.0,-899.0
+33,Wakad,2,1182,Semi-Furnished,28268,3626,0.3,28298.0,-30.0
+34,Wakad,2,1240,Unfurnished,22707,3662,2.3,24130.0,-1423.0
+35,Viman Nagar,1,521,Semi-Furnished,13185,2395,3.9,14010.0,-825.0
+36,Viman Nagar,1,613,Semi-Furnished,14717,1653,2.4,15125.0,-408.0
+37,Kharadi,2,1115,Semi-Furnished,28381,2516,1.5,28059.0,322.0
+38,Hinjewadi,1,641,Unfurnished,15566,4591,1.6,14682.0,884.0
+39,Hinjewadi,2,1206,Fully Furnished,33973,3644,1.4,32677.0,1296.0
+40,Viman Nagar,2,1057,Fully Furnished,28985,4636,3.9,31132.0,-2147.0
+41,Wakad,3,1650,Fully Furnished,40615,3537,3.1,41415.0,-800.0
+42,Hinjewadi,2,896,Fully Furnished,29642,2902,2.9,30072.0,-430.0
+43,Wakad,3,1357,Semi-Furnished,42030,4791,3.1,41286.0,744.0
+44,Wakad,3,1493,Semi-Furnished,37266,3273,4.7,38322.0,-1056.0
+45,Viman Nagar,2,888,Fully Furnished,31125,4133,4.9,31219.0,-94.0
+46,Kharadi,3,1910,Unfurnished,35541,3494,3.1,36175.0,-634.0
+47,Viman Nagar,3,1785,Fully Furnished,40495,4385,3.0,43042.0,-2547.0
+48,Hinjewadi,3,1676,Semi-Furnished,38911,2239,3.1,38846.0,65.0
+49,Hinjewadi,1,504,Fully Furnished,21255,2020,4.1,20415.0,840.0
+50,Wakad,1,543,Unfurnished,14520,4259,0.2,13542.0,978.0
+51,Wakad,3,1776,Unfurnished,38377,2251,0.8,37328.0,1049.0
+52,Wakad,3,1570,Semi-Furnished,39029,3202,0.7,38951.0,78.0
+53,Kharadi,2,953,Unfurnished,23788,1971,3.4,23829.0,-41.0
+54,Wakad,2,984,Fully Furnished,30745,2236,2.9,31065.0,-320.0
+55,Wakad,1,667,Unfurnished,15605,2995,0.3,14804.0,801.0
+56,Kharadi,1,727,Unfurnished,13010,3506,1.0,13347.0,-337.0
+57,Kharadi,2,1176,Unfurnished,23586,2704,1.4,24379.0,-793.0
+58,Hinjewadi,3,1392,Semi-Furnished,38439,4525,3.7,38824.0,-385.0
+59,Kharadi,3,1525,Unfurnished,36708,4529,3.6,37285.0,-577.0
+60,Hinjewadi,3,1737,Unfurnished,36535,4171,4.4,36879.0,-344.0
+61,Hinjewadi,1,681,Unfurnished,10738,3631,5.0,11953.0,-1215.0
+62,Baner,1,502,Fully Furnished,18251,2407,4.6,18573.0,-322.0
+63,Wakad,2,1178,Fully Furnished,33914,4667,1.9,33268.0,646.0
+64,Kharadi,1,675,Semi-Furnished,17305,2775,4.7,14952.0,2353.0
+65,Viman Nagar,3,1496,Semi-Furnished,40058,3316,2.2,39374.0,684.0
+66,Wakad,2,1064,Semi-Furnished,27559,4618,4.0,27384.0,175.0
+67,Kharadi,3,1505,Unfurnished,38558,1587,3.1,37999.0,559.0
+68,Wakad,1,742,Fully Furnished,18423,4143,0.5,19046.0,-623.0
+69,Kharadi,3,1874,Semi-Furnished,36648,2708,1.7,40017.0,-3369.0
+70,Kharadi,1,614,Semi-Furnished,18107,4717,0.3,14949.0,3158.0
+71,Baner,1,569,Unfurnished,10417,3069,3.1,12703.0,-2286.0
+72,Wakad,3,1714,Semi-Furnished,39816,4893,3.7,40246.0,-430.0
+73,Baner,2,1262,Semi-Furnished,30075,2491,4.6,26749.0,3326.0
+74,Baner,2,990,Fully Furnished,33844,4019,3.0,30587.0,3257.0
+75,Kharadi,2,873,Fully Furnished,29690,4041,1.4,30080.0,-390.0
+76,Viman Nagar,1,778,Fully Furnished,16399,4520,0.6,18668.0,-2269.0
+77,Wakad,1,477,Semi-Furnished,13168,4299,0.3,14497.0,-1329.0
+78,Baner,3,1290,Fully Furnished,41464,4540,3.6,42772.0,-1308.0
+79,Hinjewadi,3,1674,Semi-Furnished,39597,4634,0.5,40902.0,-1305.0
+80,Wakad,1,689,Fully Furnished,21286,3020,1.0,19957.0,1329.0
+81,Kharadi,2,1377,Unfurnished,27347,3751,0.8,26485.0,862.0
+82,Kharadi,3,1876,Unfurnished,34459,4465,2.3,35654.0,-1195.0
+83,Viman Nagar,2,973,Unfurnished,25418,4501,3.8,24471.0,947.0
+84,Hinjewadi,2,1005,Unfurnished,26025,2776,0.9,25825.0,200.0
+85,Hinjewadi,1,481,Semi-Furnished,17218,2997,4.4,15480.0,1738.0
+86,Viman Nagar,1,759,Semi-Furnished,18126,3069,0.5,16742.0,1384.0
+87,Viman Nagar,3,1822,Fully Furnished,42070,2250,0.8,43554.0,-1484.0
+88,Viman Nagar,3,1798,Fully Furnished,43334,4525,2.2,43196.0,138.0
+89,Viman Nagar,3,1327,Unfurnished,36956,2839,3.7,37613.0,-657.0
+90,Kharadi,2,1043,Unfurnished,22131,3049,2.3,23461.0,-1330.0
+91,Baner,1,687,Fully Furnished,17693,1733,3.5,20001.0,-2308.0
+92,Kharadi,2,1389,Semi-Furnished,25193,3085,3.7,25529.0,-336.0
+93,Hinjewadi,3,1804,Semi-Furnished,38155,3150,2.0,38556.0,-401.0
+94,Hinjewadi,2,1059,Fully Furnished,32915,2958,3.3,30300.0,2615.0
+95,Wakad,1,597,Unfurnished,15473,2271,0.5,14542.0,931.0
+96,Kharadi,2,1207,Fully Furnished,28241,3034,4.4,29064.0,-823.0
+97,Hinjewadi,3,1809,Semi-Furnished,39288,3901,1.3,39715.0,-427.0
+98,Hinjewadi,2,1355,Fully Furnished,28413,2224,1.7,30106.0,-1693.0
+99,Kharadi,1,571,Semi-Furnished,18404,3263,1.6,16536.0,1868.0
+100,Viman Nagar,2,1165,Unfurnished,25745,1787,0.6,25872.0,-127.0
+101,Wakad,3,1399,Unfurnished,38358,1764,2.3,38025.0,333.0
+102,Viman Nagar,1,554,Fully Furnished,16088,2331,3.0,18742.0,-2654.0
+103,Kharadi,1,657,Fully Furnished,19681,3505,1.6,19752.0,-71.0
+104,Wakad,3,1757,Unfurnished,38838,2653,1.8,38170.0,668.0
+105,Hinjewadi,3,1825,Unfurnished,35603,1555,4.9,35165.0,438.0
+106,Kharadi,3,1506,Semi-Furnished,42442,4955,3.1,41714.0,728.0
+107,Kharadi,1,436,Fully Furnished,17162,4384,2.0,18209.0,-1047.0
+108,Wakad,2,898,Semi-Furnished,26921,2237,4.3,27738.0,-817.0
+109,Hinjewadi,2,1208,Semi-Furnished,27817,2258,4.2,27111.0,706.0
+110,Kharadi,2,1048,Semi-Furnished,27893,3763,3.5,27596.0,297.0
+111,Baner,3,1811,Fully Furnished,41731,2200,2.6,42067.0,-336.0
+112,Wakad,2,1379,Semi-Furnished,28889,4219,2.5,27725.0,1164.0
+113,Viman Nagar,1,616,Unfurnished,14988,4008,1.5,14188.0,800.0
+114,Baner,1,552,Unfurnished,12123,2983,2.3,12302.0,-179.0
+115,Wakad,3,1782,Unfurnished,34130,2018,1.6,35612.0,-1482.0
+116,Wakad,3,1791,Fully Furnished,41088,2386,1.8,42143.0,-1055.0
+117,Baner,1,477,Semi-Furnished,13708,3029,1.6,14489.0,-781.0
+118,Wakad,2,1261,Semi-Furnished,24789,4370,2.0,26145.0,-1356.0
+119,Kharadi,1,496,Unfurnished,12667,1960,2.5,12653.0,14.0
+120,Hinjewadi,3,1843,Fully Furnished,42854,3314,0.4,42556.0,298.0
+121,Viman Nagar,3,1839,Semi-Furnished,40852,4164,1.7,40553.0,299.0
+122,Wakad,2,1236,Semi-Furnished,29718,3101,0.8,29247.0,471.0
+123,Kharadi,3,1607,Fully Furnished,40115,3030,0.5,41158.0,-1043.0
+124,Baner,2,1232,Fully Furnished,32512,4822,1.1,32369.0,143.0
+125,Kharadi,2,1308,Unfurnished,24384,3395,3.2,24494.0,-110.0
+126,Kharadi,3,1268,Fully Furnished,45048,2176,4.2,44595.0,453.0
+127,Viman Nagar,2,1201,Unfurnished,25460,4207,2.3,24995.0,465.0
+128,Kharadi,3,1874,Fully Furnished,44386,4203,1.3,43710.0,676.0
+129,Viman Nagar,2,1228,Semi-Furnished,30236,2806,1.4,29346.0,890.0
+130,Hinjewadi,3,1466,Semi-Furnished,41575,3779,2.0,40165.0,1410.0
+131,Viman Nagar,2,1203,Fully Furnished,33348,4054,3.6,32624.0,724.0
+132,Viman Nagar,2,880,Fully Furnished,28525,4407,1.3,30764.0,-2239.0
+133,Viman Nagar,1,740,Unfurnished,12450,3696,2.9,12733.0,-283.0
+134,Baner,2,988,Unfurnished,24573,4561,3.7,24315.0,258.0
+135,Viman Nagar,2,1139,Semi-Furnished,25772,3909,2.4,26865.0,-1093.0
+136,Baner,1,601,Semi-Furnished,14336,1761,3.9,14789.0,-453.0
+137,Kharadi,3,1395,Semi-Furnished,37282,3371,1.8,37965.0,-683.0
+138,Baner,3,1565,Fully Furnished,41632,4447,2.8,41554.0,78.0
+139,Baner,2,1102,Unfurnished,22516,2305,4.5,23115.0,-599.0
+140,Baner,3,1487,Unfurnished,36287,3092,0.7,36946.0,-659.0
+141,Hinjewadi,2,1134,Semi-Furnished,28046,4531,2.7,27840.0,206.0
+142,Viman Nagar,1,724,Unfurnished,13207,2301,2.8,13287.0,-80.0
+143,Baner,3,1312,Unfurnished,39471,4511,2.4,39101.0,370.0
+144,Viman Nagar,1,715,Semi-Furnished,18096,1648,1.0,16783.0,1313.0
+145,Viman Nagar,1,572,Fully Furnished,21318,2625,0.3,20684.0,634.0
+146,Kharadi,1,649,Fully Furnished,16422,4645,1.9,17584.0,-1162.0
+147,Viman Nagar,3,1445,Unfurnished,38864,2531,3.4,38511.0,353.0
+148,Viman Nagar,3,1790,Unfurnished,39975,3257,3.0,39070.0,905.0
+149,Kharadi,1,534,Fully Furnished,18945,1939,0.8,19464.0,-519.0
+150,Kharadi,2,1120,Semi-Furnished,25583,2466,2.3,26475.0,-892.0
+151,Hinjewadi,3,1714,Unfurnished,34101,2391,4.9,35357.0,-1256.0
+152,Kharadi,3,1299,Fully Furnished,41769,3795,2.7,42043.0,-274.0
+153,Kharadi,2,1206,Semi-Furnished,27144,4971,1.3,27789.0,-645.0
+154,Baner,3,1958,Semi-Furnished,39980,2823,0.3,40045.0,-65.0
+155,Kharadi,1,523,Fully Furnished,20448,2175,0.7,19399.0,1049.0
+156,Hinjewadi,1,598,Fully Furnished,20900,2127,0.4,20104.0,796.0
+157,Viman Nagar,2,1195,Fully Furnished,29861,2643,4.0,30157.0,-296.0
+158,Kharadi,1,698,Fully Furnished,18572,1715,0.7,19070.0,-498.0
+159,Wakad,1,640,Unfurnished,14177,4074,2.8,13577.0,600.0
+160,Wakad,2,1107,Fully Furnished,32127,2659,3.1,31666.0,461.0
+161,Kharadi,1,612,Fully Furnished,19918,2148,3.2,19691.0,227.0
+162,Kharadi,1,596,Semi-Furnished,17963,3384,2.7,16406.0,1557.0
+163,Viman Nagar,3,1321,Fully Furnished,44962,1948,4.0,44804.0,158.0
+164,Baner,1,685,Unfurnished,15756,2194,4.5,14630.0,1126.0
+165,Hinjewadi,1,631,Unfurnished,15318,3101,3.0,14687.0,631.0
+166,Hinjewadi,3,1529,Fully Furnished,44410,3743,3.4,43820.0,590.0
+167,Viman Nagar,2,1170,Unfurnished,24487,3657,3.4,24507.0,-20.0
+168,Hinjewadi,2,1096,Unfurnished,26017,3421,2.9,25243.0,774.0
+169,Baner,3,1312,Fully Furnished,41449,4458,1.7,41849.0,-400.0
+170,Kharadi,1,515,Unfurnished,12720,3052,4.1,12981.0,-261.0
+171,Hinjewadi,1,575,Unfurnished,11722,4850,1.6,12579.0,-857.0
+172,Hinjewadi,3,1965,Fully Furnished,40177,2227,3.7,41695.0,-1518.0
+173,Hinjewadi,3,1259,Semi-Furnished,42161,2785,2.9,38847.0,3314.0
+174,Wakad,1,561,Fully Furnished,19327,3638,4.1,19464.0,-137.0
+175,Kharadi,3,1524,Fully Furnished,45230,4324,4.2,44566.0,664.0
+176,Kharadi,2,1064,Fully Furnished,30357,4381,1.6,30723.0,-366.0
+177,Wakad,3,1634,Fully Furnished,44945,1881,3.4,44069.0,876.0
+178,Kharadi,1,634,Semi-Furnished,16067,3191,4.4,15519.0,548.0
+179,Baner,2,986,Fully Furnished,32560,2461,4.7,31783.0,777.0
+180,Hinjewadi,2,1061,Semi-Furnished,29425,4949,1.4,29014.0,411.0
+181,Baner,1,604,Semi-Furnished,15162,2857,2.9,14739.0,423.0
+182,Wakad,2,1003,Fully Furnished,31015,4933,4.0,31180.0,-165.0
+183,Wakad,1,500,Semi-Furnished,17784,3132,1.0,13250.0,4534.0
+184,Hinjewadi,2,1027,Semi-Furnished,25472,4250,3.9,26364.0,-892.0
+185,Baner,2,1067,Semi-Furnished,28844,1980,0.9,28520.0,324.0
+186,Hinjewadi,3,1737,Semi-Furnished,40251,3752,2.6,40075.0,176.0
+187,Hinjewadi,1,694,Unfurnished,12912,3270,3.5,12919.0,-7.0
+188,Viman Nagar,1,535,Semi-Furnished,16747,4781,4.3,16008.0,739.0
+189,Baner,3,1529,Semi-Furnished,41314,1675,4.6,40542.0,772.0
+190,Baner,1,660,Fully Furnished,21317,2372,2.6,20831.0,486.0
+191,Hinjewadi,2,1149,Fully Furnished,29527,2343,0.7,29873.0,-346.0
+192,Baner,2,1099,Fully Furnished,33100,1542,2.7,32733.0,367.0
+193,Wakad,1,482,Semi-Furnished,12851,3316,0.4,13151.0,-300.0
+194,Wakad,2,940,Fully Furnished,30282,4165,3.6,30866.0,-584.0
+195,Kharadi,2,1388,Fully Furnished,29379,3179,2.2,31789.0,-2410.0
+196,Viman Nagar,3,1530,Semi-Furnished,39412,3020,1.4,39059.0,353.0
+197,Wakad,1,487,Fully Furnished,20805,3665,0.9,20338.0,467.0
+198,Kharadi,1,499,Semi-Furnished,14350,2149,0.7,14350.0,0.0
+199,Baner,2,1025,Unfurnished,26779,2527,2.1,25694.0,1085.0
+200,Baner,2,1275,Unfurnished,27444,2642,1.0,26718.0,726.0
+201,Hinjewadi,3,1704,Semi-Furnished,37999,2545,4.0,38143.0,-144.0
+202,Kharadi,3,1533,Unfurnished,35865,2491,0.8,36490.0,-625.0
+203,Hinjewadi,3,1532,Semi-Furnished,38938,3723,3.7,39230.0,-292.0
+204,Hinjewadi,2,1271,Unfurnished,23933,2882,3.7,23977.0,-44.0
+205,Hinjewadi,1,514,Semi-Furnished,13855,2404,2.6,15086.0,-1231.0
+206,Hinjewadi,3,1689,Unfurnished,38150,1811,0.7,37613.0,537.0
+207,Viman Nagar,3,1669,Semi-Furnished,37094,3117,3.9,37565.0,-471.0
+208,Hinjewadi,1,475,Semi-Furnished,17515,2107,1.9,16650.0,865.0
+209,Baner,2,1120,Semi-Furnished,29736,3684,2.6,28463.0,1273.0
+210,Hinjewadi,1,642,Fully Furnished,20714,2874,4.5,19258.0,1456.0
+211,Baner,1,686,Semi-Furnished,15124,3752,0.3,14828.0,296.0
+212,Viman Nagar,3,1890,Unfurnished,36571,1879,1.8,36763.0,-192.0
+213,Baner,1,610,Unfurnished,10896,3271,4.0,11793.0,-897.0
+214,Wakad,1,469,Fully Furnished,18620,4045,1.1,19155.0,-535.0
+215,Kharadi,1,720,Unfurnished,15117,3199,3.2,14501.0,616.0
+216,Viman Nagar,2,943,Semi-Furnished,29442,4384,1.8,29246.0,196.0
+217,Kharadi,3,1321,Unfurnished,37916,4520,3.4,38381.0,-465.0
+218,Kharadi,1,551,Unfurnished,15677,3015,4.1,14558.0,1119.0
+219,Wakad,2,1017,Semi-Furnished,25153,3256,3.1,25999.0,-846.0
+220,Wakad,2,1055,Semi-Furnished,28295,2776,2.4,27583.0,712.0
+221,Viman Nagar,2,1018,Fully Furnished,30570,3806,3.0,30685.0,-115.0
+222,Hinjewadi,3,1633,Unfurnished,36659,1543,3.1,36684.0,-25.0
+223,Viman Nagar,2,936,Unfurnished,27109,2517,0.7,26019.0,1090.0
+224,Viman Nagar,2,1355,Fully Furnished,33903,4341,1.3,32841.0,1062.0
+225,Wakad,3,1652,Semi-Furnished,39076,4588,1.9,39310.0,-234.0
+226,Wakad,3,1238,Unfurnished,38278,3819,4.9,37821.0,457.0
+227,Viman Nagar,1,551,Semi-Furnished,17887,1590,3.4,16598.0,1289.0
+228,Hinjewadi,1,451,Unfurnished,14447,4991,1.7,13669.0,778.0
+229,Kharadi,2,1037,Fully Furnished,28347,3044,2.7,29128.0,-781.0
+230,Wakad,1,517,Semi-Furnished,17061,1857,2.4,15990.0,1071.0
+231,Hinjewadi,1,647,Fully Furnished,19049,1729,3.8,19531.0,-482.0
+232,Viman Nagar,3,1815,Unfurnished,37377,3145,0.4,37398.0,-21.0
+233,Kharadi,3,1338,Fully Furnished,45282,4398,1.4,44220.0,1062.0
+234,Hinjewadi,1,484,Semi-Furnished,13001,2546,2.3,14030.0,-1029.0
+235,Baner,1,471,Semi-Furnished,14505,1563,2.9,14929.0,-424.0
+236,Wakad,1,704,Unfurnished,10187,4012,3.2,11466.0,-1279.0
+237,Wakad,3,1554,Semi-Furnished,40480,4627,2.0,40165.0,315.0
+238,Viman Nagar,3,1815,Fully Furnished,45967,4152,4.1,45387.0,580.0
+239,Baner,3,1408,Unfurnished,34249,4309,1.9,38266.0,-4017.0
+240,Baner,3,1904,Fully Furnished,41546,2450,1.3,42016.0,-470.0
+241,Viman Nagar,3,1565,Unfurnished,36915,4061,3.6,37275.0,-360.0
+242,Hinjewadi,1,473,Unfurnished,11701,4020,1.1,12000.0,-299.0
+243,Hinjewadi,3,1262,Fully Furnished,41919,2816,3.3,42472.0,-553.0
+244,Viman Nagar,1,465,Unfurnished,12079,2584,4.1,12210.0,-131.0
+245,Wakad,1,556,Unfurnished,13706,1978,3.1,13370.0,336.0
+246,Kharadi,2,965,Semi-Furnished,29742,4981,1.8,29503.0,239.0
+247,Hinjewadi,1,611,Semi-Furnished,12814,2792,2.4,14078.0,-1264.0
+248,Hinjewadi,3,1366,Semi-Furnished,36802,3822,3.8,38167.0,-1365.0
+249,Kharadi,1,468,Fully Furnished,20842,3729,3.1,20168.0,674.0
+250,Wakad,3,1775,Semi-Furnished,40808,3686,4.7,40175.0,633.0
+251,Viman Nagar,3,1516,Fully Furnished,44253,2455,1.4,44039.0,214.0
+252,Baner,1,546,Unfurnished,11508,1671,3.9,12052.0,-544.0
+253,Baner,2,984,Unfurnished,22301,4697,4.9,23156.0,-855.0
+254,Hinjewadi,3,1831,Semi-Furnished,41226,4897,3.8,40885.0,341.0
+255,Viman Nagar,3,1631,Semi-Furnished,42126,4851,0.5,41675.0,451.0
+256,Baner,2,902,Semi-Furnished,28808,4922,4.9,28677.0,131.0
+257,Baner,3,1237,Semi-Furnished,37721,2325,0.6,38365.0,-644.0
+258,Hinjewadi,3,1352,Fully Furnished,40067,4182,4.4,42041.0,-1974.0
+259,Wakad,1,554,Fully Furnished,16261,3116,2.2,18257.0,-1996.0
+260,Wakad,3,1425,Semi-Furnished,37932,2173,1.1,38434.0,-502.0
+261,Wakad,3,1911,Unfurnished,34840,3575,1.0,35491.0,-651.0
+262,Kharadi,3,1577,Fully Furnished,44601,4489,4.4,44225.0,376.0
+263,Wakad,1,632,Fully Furnished,20834,4445,3.4,18625.0,2209.0
+264,Viman Nagar,2,1156,Fully Furnished,28872,1583,1.0,30072.0,-1200.0
+265,Wakad,1,696,Fully Furnished,19556,4484,3.9,19457.0,99.0
+266,Viman Nagar,3,1833,Fully Furnished,43274,2945,4.8,43763.0,-489.0
+267,Kharadi,3,1837,Unfurnished,38301,3265,4.2,37734.0,567.0
+268,Baner,1,560,Unfurnished,11115,2516,2.1,11517.0,-402.0
+269,Viman Nagar,1,577,Unfurnished,14168,1729,2.8,12985.0,1183.0
+270,Hinjewadi,1,439,Semi-Furnished,17414,4427,0.3,16084.0,1330.0
+271,Hinjewadi,3,1598,Unfurnished,38300,4420,4.7,37641.0,659.0
+272,Viman Nagar,2,1060,Unfurnished,25110,3722,3.4,24894.0,216.0
+273,Baner,3,1474,Unfurnished,39019,2716,2.6,38784.0,235.0
+274,Baner,2,972,Unfurnished,23569,3406,0.7,24499.0,-930.0
+275,Baner,3,1795,Semi-Furnished,38859,3549,4.3,39462.0,-603.0
+276,Viman Nagar,3,1464,Fully Furnished,43321,3044,0.3,43260.0,61.0
+277,Viman Nagar,3,1792,Fully Furnished,45697,3865,4.4,45452.0,245.0
+278,Wakad,2,1283,Fully Furnished,33206,2532,3.8,31311.0,1895.0
+279,Viman Nagar,2,1043,Unfurnished,23640,2951,3.6,24814.0,-1174.0
+280,Viman Nagar,2,1149,Fully Furnished,29521,2646,2.8,30000.0,-479.0
+281,Wakad,2,1080,Fully Furnished,32851,4904,2.0,31783.0,1068.0
+282,Viman Nagar,3,1467,Semi-Furnished,42442,4377,0.3,41633.0,809.0
+283,Wakad,2,1139,Fully Furnished,32067,2100,1.4,31789.0,278.0
+284,Hinjewadi,2,1189,Fully Furnished,31518,4414,2.2,32163.0,-645.0
+285,Baner,1,494,Semi-Furnished,14658,1775,1.0,14465.0,193.0
+286,Baner,2,1247,Unfurnished,23833,2985,0.3,24556.0,-723.0
+287,Baner,2,1070,Fully Furnished,29388,2035,4.2,30400.0,-1012.0
+288,Wakad,3,1500,Semi-Furnished,41876,2109,3.9,40567.0,1309.0
+289,Viman Nagar,1,604,Unfurnished,13781,2292,0.7,13593.0,188.0
+290,Hinjewadi,1,448,Unfurnished,11977,3087,1.9,12376.0,-399.0
+291,Viman Nagar,2,1159,Semi-Furnished,30133,3296,3.0,26344.0,3789.0
+292,Baner,1,639,Fully Furnished,17365,1588,5.0,18403.0,-1038.0
+293,Hinjewadi,3,1815,Semi-Furnished,36592,1581,3.7,38597.0,-2005.0
+294,Viman Nagar,2,1321,Unfurnished,26282,3154,2.0,26003.0,279.0
+295,Viman Nagar,1,568,Semi-Furnished,12868,3245,2.6,13785.0,-917.0
+296,Baner,2,1254,Unfurnished,22412,3854,3.1,23054.0,-642.0
+297,Baner,3,1678,Unfurnished,38015,3144,1.0,37712.0,303.0
+298,Viman Nagar,3,1346,Semi-Furnished,38288,1601,1.8,38728.0,-440.0
+299,Kharadi,1,614,Fully Furnished,17741,3100,3.7,18148.0,-407.0
+300,Viman Nagar,1,605,Semi-Furnished,15251,2349,3.8,15108.0,143.0
+301,Kharadi,3,1799,Fully Furnished,41477,3951,2.6,41800.0,-323.0
+302,Baner,2,1026,Unfurnished,23006,2595,2.6,23472.0,-466.0
+303,Baner,1,526,Fully Furnished,18324,2162,1.3,18906.0,-582.0
+304,Hinjewadi,1,586,Unfurnished,11321,4703,4.7,12279.0,-958.0
+305,Baner,2,1144,Unfurnished,23248,4558,4.5,24178.0,-930.0
+306,Wakad,3,1709,Unfurnished,37511,3030,3.7,37640.0,-129.0
+307,Hinjewadi,3,1758,Semi-Furnished,41170,4073,0.3,40691.0,479.0
+308,Kharadi,2,1242,Unfurnished,25889,4814,1.6,25170.0,719.0
+309,Hinjewadi,3,1862,Fully Furnished,42276,3420,1.4,42540.0,-264.0
+310,Baner,2,1222,Semi-Furnished,26992,4491,2.0,27242.0,-250.0
+311,Viman Nagar,3,1918,Fully Furnished,45168,2630,4.5,44863.0,305.0
+312,Wakad,3,1809,Unfurnished,38383,3565,2.1,37774.0,609.0
+313,Kharadi,2,1099,Unfurnished,25906,3097,1.8,24160.0,1746.0
+314,Wakad,1,618,Semi-Furnished,14982,2496,3.5,14937.0,45.0
+315,Baner,2,1026,Semi-Furnished,25109,1734,2.8,25925.0,-816.0
+316,Baner,1,554,Fully Furnished,21648,3314,0.9,20896.0,752.0
+317,Viman Nagar,3,1747,Unfurnished,38996,2363,3.4,37928.0,1068.0
+318,Kharadi,3,1331,Fully Furnished,44770,4782,0.5,42644.0,2126.0
+319,Kharadi,3,1680,Fully Furnished,44222,3903,0.8,43440.0,782.0
+320,Viman Nagar,2,993,Unfurnished,25782,3434,1.5,25641.0,141.0
+321,Kharadi,1,762,Fully Furnished,19117,3982,2.1,19290.0,-173.0
+322,Hinjewadi,1,566,Semi-Furnished,17403,1646,3.1,16041.0,1362.0
+323,Kharadi,3,1365,Fully Furnished,45498,2709,2.1,44215.0,1283.0
+324,Baner,1,602,Fully Furnished,21113,4844,0.6,18682.0,2431.0
+325,Hinjewadi,3,1875,Semi-Furnished,37149,2735,3.5,39314.0,-2165.0
+326,Hinjewadi,2,1080,Fully Furnished,32483,3142,1.3,31628.0,855.0
+327,Baner,3,1580,Fully Furnished,43206,2234,2.3,42860.0,346.0
+328,Kharadi,3,1463,Unfurnished,37978,3227,4.5,38149.0,-171.0
+329,Kharadi,3,1940,Unfurnished,39289,2119,2.5,38019.0,1270.0
+330,Wakad,1,544,Unfurnished,11758,3427,0.8,12074.0,-316.0
+331,Baner,2,923,Unfurnished,22298,4514,2.5,23059.0,-761.0
+332,Kharadi,3,1666,Semi-Furnished,39378,1771,1.3,39517.0,-139.0
+333,Hinjewadi,2,1226,Semi-Furnished,25413,2911,3.8,25967.0,-554.0
+334,Baner,3,1365,Fully Furnished,45862,4913,3.7,42462.0,3400.0
+335,Viman Nagar,1,739,Unfurnished,13355,4118,1.7,13086.0,269.0
+336,Viman Nagar,2,984,Semi-Furnished,28698,3414,2.0,28732.0,-34.0
+337,Viman Nagar,1,624,Unfurnished,10538,4948,1.5,13770.0,-3232.0
+338,Kharadi,2,1292,Semi-Furnished,25917,3168,3.4,25832.0,85.0
+339,Baner,3,1505,Semi-Furnished,40044,4434,0.7,40361.0,-317.0
+340,Hinjewadi,1,627,Semi-Furnished,18277,2411,1.4,16893.0,1384.0
+341,Viman Nagar,2,935,Unfurnished,22638,3484,0.6,24134.0,-1496.0
+342,Viman Nagar,1,518,Semi-Furnished,13929,3005,0.8,13462.0,467.0
+343,Hinjewadi,2,974,Semi-Furnished,29452,2188,5.0,29044.0,408.0
+344,Kharadi,2,945,Unfurnished,24884,1959,2.2,24713.0,171.0
+345,Viman Nagar,3,1652,Unfurnished,39805,4712,3.3,39173.0,632.0
+346,Kharadi,3,1894,Semi-Furnished,41188,2059,2.5,40674.0,514.0
+347,Viman Nagar,1,795,Unfurnished,12278,4588,1.3,12604.0,-326.0
+348,Viman Nagar,3,1369,Fully Furnished,45874,4677,1.7,43334.0,2540.0
+349,Wakad,2,914,Unfurnished,24315,4664,3.8,24129.0,186.0
+350,Wakad,1,654,Semi-Furnished,15601,4791,3.2,15411.0,190.0
+351,Wakad,1,624,Semi-Furnished,15241,1751,3.1,15249.0,-8.0
+352,Viman Nagar,2,1163,Fully Furnished,32763,3841,3.0,31941.0,822.0
+353,Kharadi,1,619,Fully Furnished,20786,3481,3.4,18631.0,2155.0
+354,Baner,2,1150,Unfurnished,25462,3386,4.7,24698.0,764.0
+355,Viman Nagar,2,1154,Unfurnished,26485,2710,2.9,25522.0,963.0
+356,Baner,1,621,Unfurnished,11386,2389,2.7,12279.0,-893.0
+357,Kharadi,3,1796,Semi-Furnished,39923,1751,1.4,39439.0,484.0
+358,Hinjewadi,1,584,Unfurnished,13143,1938,0.9,13185.0,-42.0
+359,Hinjewadi,2,1214,Unfurnished,22039,2583,3.0,22926.0,-887.0
+360,Hinjewadi,1,572,Semi-Furnished,12912,3605,2.8,14154.0,-1242.0
+361,Kharadi,1,550,Unfurnished,10318,3604,0.5,11683.0,-1365.0
+362,Viman Nagar,3,1559,Fully Furnished,43086,3927,2.6,43219.0,-133.0
+363,Wakad,3,1917,Unfurnished,35858,3130,2.7,37269.0,-1411.0
+364,Baner,3,1414,Semi-Furnished,37733,2854,2.9,38140.0,-407.0
+365,Wakad,1,689,Semi-Furnished,15785,4272,3.6,15502.0,283.0
+366,Hinjewadi,3,1761,Unfurnished,36350,2470,1.7,36535.0,-185.0
+367,Wakad,3,1664,Fully Furnished,45635,2994,4.6,45104.0,531.0
+368,Kharadi,3,1911,Unfurnished,37399,2768,1.8,37076.0,323.0
+369,Kharadi,3,1380,Semi-Furnished,41812,3133,2.6,40461.0,1351.0
+370,Wakad,1,524,Semi-Furnished,14700,4305,3.2,14680.0,20.0
+371,Wakad,1,553,Semi-Furnished,13097,1675,1.9,13951.0,-854.0
+372,Kharadi,1,590,Unfurnished,14805,3780,1.8,13202.0,1603.0
+373,Wakad,3,1484,Fully Furnished,43793,3737,4.3,44019.0,-226.0
+374,Hinjewadi,3,1396,Unfurnished,36778,4725,2.6,37521.0,-743.0
+375,Wakad,2,834,Unfurnished,23192,3723,0.5,23611.0,-419.0
+376,Wakad,2,1188,Semi-Furnished,27539,4148,1.4,27943.0,-404.0
+377,Wakad,3,1847,Fully Furnished,45614,2686,1.1,44246.0,1368.0
+378,Baner,1,542,Unfurnished,13379,3504,2.6,11863.0,1516.0
+379,Kharadi,1,632,Fully Furnished,19121,1620,2.7,19268.0,-147.0
+380,Wakad,3,1877,Fully Furnished,41106,4572,0.5,41904.0,-798.0
+381,Kharadi,3,1433,Semi-Furnished,38382,3282,1.8,38305.0,77.0
+382,Wakad,1,629,Fully Furnished,18757,4208,2.5,18727.0,30.0
+383,Kharadi,2,1294,Fully Furnished,30691,2319,4.4,30604.0,87.0
+384,Kharadi,1,674,Unfurnished,11785,2769,3.5,12744.0,-959.0
+385,Viman Nagar,3,1533,Unfurnished,36944,4886,1.6,38318.0,-1374.0
+386,Kharadi,3,1872,Semi-Furnished,40876,4217,4.7,40718.0,158.0
+387,Kharadi,1,522,Unfurnished,13337,4033,4.4,13214.0,123.0
+388,Baner,1,564,Fully Furnished,18076,3466,4.7,18693.0,-617.0
+389,Wakad,1,589,Semi-Furnished,15413,2986,1.6,14333.0,1080.0
+390,Hinjewadi,1,437,Semi-Furnished,17006,2992,4.7,16188.0,818.0
+391,Kharadi,1,697,Fully Furnished,21318,4335,4.1,20649.0,669.0
+392,Wakad,2,1245,Unfurnished,27836,2279,1.2,24978.0,2858.0
+393,Hinjewadi,1,618,Semi-Furnished,16486,2462,1.9,15972.0,514.0
+394,Kharadi,3,1771,Semi-Furnished,39320,2473,3.3,39140.0,180.0
+395,Baner,2,1163,Unfurnished,23472,2353,1.1,25774.0,-2302.0
+396,Wakad,2,1214,Fully Furnished,28944,3382,3.0,30067.0,-1123.0
+397,Kharadi,1,713,Unfurnished,14413,4884,4.9,13743.0,670.0
+398,Kharadi,1,587,Unfurnished,12447,1630,1.2,12807.0,-360.0
+399,Baner,3,1583,Fully Furnished,40943,2801,3.1,41229.0,-286.0
+400,Hinjewadi,1,517,Unfurnished,11767,2157,3.8,12162.0,-395.0
+401,Wakad,1,687,Semi-Furnished,12564,2490,1.2,13285.0,-721.0
+402,Wakad,1,506,Unfurnished,10506,4723,3.2,11299.0,-793.0
+403,Wakad,2,922,Unfurnished,24901,2253,0.3,25098.0,-197.0
+404,Kharadi,2,1352,Fully Furnished,33941,3166,2.0,32472.0,1469.0
+405,Kharadi,3,1872,Fully Furnished,42752,3407,1.2,42960.0,-208.0
+406,Hinjewadi,1,610,Semi-Furnished,18049,2246,4.1,17249.0,800.0
+407,Baner,2,1061,Semi-Furnished,28564,4042,4.0,27306.0,1258.0
+408,Baner,3,1224,Semi-Furnished,38506,4204,3.6,38819.0,-313.0
+409,Viman Nagar,1,754,Fully Furnished,19545,2500,3.8,19176.0,369.0
+410,Wakad,3,1809,Unfurnished,34830,3469,4.9,37179.0,-2349.0
+411,Kharadi,2,1058,Fully Furnished,31318,3243,3.8,29965.0,1353.0
+412,Hinjewadi,3,1813,Semi-Furnished,42484,3616,2.9,41227.0,1257.0
+413,Kharadi,2,926,Semi-Furnished,28135,3773,1.9,28587.0,-452.0
+414,Wakad,2,1039,Unfurnished,27174,2245,0.2,26314.0,860.0
+415,Baner,3,1877,Semi-Furnished,38628,3685,3.0,40758.0,-2130.0
+416,Wakad,2,1270,Semi-Furnished,25204,2103,0.2,28678.0,-3474.0
+417,Wakad,2,1150,Unfurnished,26143,2600,0.6,26048.0,95.0
+418,Hinjewadi,1,598,Semi-Furnished,12715,3258,0.9,13491.0,-776.0
+419,Viman Nagar,2,1234,Unfurnished,23104,3860,3.7,23588.0,-484.0
+420,Kharadi,3,1424,Unfurnished,39793,2936,4.8,39216.0,577.0
+421,Kharadi,1,525,Unfurnished,14605,4798,2.6,13505.0,1100.0
+422,Hinjewadi,3,1811,Fully Furnished,42338,4234,2.2,42335.0,3.0
+423,Baner,2,1071,Unfurnished,22093,4935,1.6,23373.0,-1280.0
+424,Viman Nagar,3,1702,Semi-Furnished,37662,4105,1.5,38611.0,-949.0
+425,Kharadi,3,1853,Fully Furnished,40343,4619,3.8,41674.0,-1331.0
+426,Baner,1,630,Fully Furnished,19243,4234,3.4,18952.0,291.0
+427,Viman Nagar,1,678,Fully Furnished,19856,1520,0.5,19666.0,190.0
+428,Kharadi,2,1212,Fully Furnished,29813,3359,3.7,30108.0,-295.0
+429,Baner,3,1281,Semi-Furnished,40194,4366,3.2,39787.0,407.0
+430,Kharadi,1,541,Fully Furnished,16243,2313,4.1,18031.0,-1788.0
+431,Kharadi,1,623,Semi-Furnished,13261,3441,0.5,14013.0,-752.0
+432,Wakad,3,1888,Semi-Furnished,41973,4600,1.0,40320.0,1653.0
+433,Baner,1,636,Fully Furnished,18068,3782,1.8,18592.0,-524.0
+434,Viman Nagar,3,1720,Unfurnished,38389,2032,0.8,38149.0,240.0
+435,Viman Nagar,1,625,Semi-Furnished,15382,2794,2.9,15186.0,196.0
+436,Kharadi,1,544,Fully Furnished,20848,1801,4.0,19901.0,947.0
+437,Kharadi,2,1228,Fully Furnished,33061,1519,2.6,32691.0,370.0
+438,Baner,2,1013,Semi-Furnished,30064,3100,4.3,28520.0,1544.0
+439,Viman Nagar,1,489,Semi-Furnished,17813,4406,3.4,15146.0,2667.0
+440,Kharadi,1,630,Unfurnished,13629,4934,1.5,13844.0,-215.0
+441,Wakad,2,1209,Semi-Furnished,29278,2278,3.7,26332.0,2946.0
+442,Wakad,3,1506,Fully Furnished,42052,2855,2.9,41869.0,183.0
+443,Viman Nagar,1,649,Fully Furnished,17491,3642,3.4,18454.0,-963.0
+444,Wakad,3,1777,Fully Furnished,45202,2647,1.1,44530.0,672.0
+445,Viman Nagar,2,1087,Fully Furnished,29422,4321,0.2,30244.0,-822.0
+446,Baner,2,1015,Unfurnished,25388,4969,3.1,24654.0,734.0
+447,Wakad,2,999,Fully Furnished,30089,3190,3.8,30455.0,-366.0
+448,Wakad,2,955,Semi-Furnished,28721,4672,4.4,28624.0,97.0
+449,Baner,2,846,Unfurnished,27457,3903,4.0,25584.0,1873.0
+450,Baner,3,1453,Fully Furnished,44886,3589,3.7,43976.0,910.0
+451,Wakad,3,1729,Unfurnished,39024,2225,3.0,37992.0,1032.0
+452,Baner,2,1048,Unfurnished,25326,3748,4.3,24150.0,1176.0
+453,Wakad,1,711,Fully Furnished,19714,2370,3.2,19821.0,-107.0
+454,Wakad,3,1652,Unfurnished,38947,4213,0.4,38191.0,756.0
+455,Wakad,3,1721,Fully Furnished,44638,3111,4.6,44754.0,-116.0
+456,Viman Nagar,1,640,Fully Furnished,17210,2621,2.3,18608.0,-1398.0
+457,Viman Nagar,1,597,Semi-Furnished,13053,2090,0.4,13727.0,-674.0
+458,Wakad,2,1200,Unfurnished,23447,3530,1.8,24120.0,-673.0
+459,Baner,2,1165,Fully Furnished,30353,3902,1.3,31044.0,-691.0
+460,Kharadi,1,788,Semi-Furnished,16579,3595,1.8,16551.0,28.0
+461,Kharadi,1,450,Fully Furnished,19410,2516,1.6,19332.0,78.0
+462,Wakad,1,694,Unfurnished,11975,3108,4.8,13219.0,-1244.0
+463,Wakad,2,1189,Unfurnished,24086,2002,3.1,23847.0,239.0
+464,Viman Nagar,3,1255,Fully Furnished,44450,3465,4.7,44424.0,26.0
+465,Wakad,3,1410,Fully Furnished,41877,4722,1.9,41859.0,18.0
+466,Viman Nagar,3,1658,Semi-Furnished,40542,4365,3.1,39543.0,999.0
+467,Wakad,3,1632,Semi-Furnished,39008,4588,2.0,39339.0,-331.0
+468,Wakad,2,1084,Semi-Furnished,25571,2876,2.7,26106.0,-535.0
+469,Kharadi,3,1520,Fully Furnished,41678,2950,3.1,41778.0,-100.0
+470,Kharadi,2,1246,Semi-Furnished,25797,1797,2.9,25956.0,-159.0
+471,Hinjewadi,1,728,Fully Furnished,19402,1852,3.8,19670.0,-268.0
+472,Wakad,1,582,Fully Furnished,21322,3426,1.4,20674.0,648.0
+473,Baner,1,581,Fully Furnished,21111,3689,0.3,20881.0,230.0
+474,Wakad,3,1500,Unfurnished,36254,2409,0.2,36713.0,-459.0
+475,Viman Nagar,2,1117,Unfurnished,27838,4734,0.8,26641.0,1197.0
+476,Hinjewadi,3,1533,Unfurnished,38111,4520,3.8,37234.0,877.0
+477,Baner,1,697,Fully Furnished,20539,3389,1.1,20228.0,311.0
+478,Wakad,1,593,Semi-Furnished,16147,3914,4.6,14810.0,1337.0
+479,Viman Nagar,1,613,Fully Furnished,17653,2930,2.0,18430.0,-777.0
+480,Hinjewadi,2,1151,Semi-Furnished,27970,2732,1.9,27811.0,159.0
+481,Kharadi,1,718,Semi-Furnished,13906,2424,4.7,14880.0,-974.0
+482,Baner,2,1270,Semi-Furnished,29061,4254,3.0,28086.0,975.0
+483,Hinjewadi,1,583,Unfurnished,15621,2393,3.3,14114.0,1507.0
+484,Hinjewadi,1,545,Semi-Furnished,17659,1530,3.5,16344.0,1315.0
+485,Hinjewadi,2,1018,Semi-Furnished,26991,2777,1.6,27452.0,-461.0
+486,Baner,3,1513,Semi-Furnished,38454,1542,2.0,39444.0,-990.0
+487,Baner,3,1425,Fully Furnished,41571,4193,2.2,41835.0,-264.0
+488,Viman Nagar,3,1292,Fully Furnished,45436,4248,0.7,44346.0,1090.0
+489,Kharadi,2,1033,Unfurnished,24641,3577,3.0,24485.0,156.0
+490,Baner,3,1813,Fully Furnished,42148,2040,4.8,43023.0,-875.0
+491,Kharadi,3,1630,Unfurnished,37096,1973,4.2,37965.0,-869.0
+492,Hinjewadi,2,974,Unfurnished,22892,3275,0.5,24631.0,-1739.0
+493,Viman Nagar,3,1349,Unfurnished,38866,3516,4.1,38416.0,450.0
+494,Viman Nagar,2,1137,Unfurnished,24591,4802,3.8,24434.0,157.0
+495,Wakad,3,1592,Unfurnished,36515,1960,2.7,38027.0,-1512.0
+496,Viman Nagar,3,1566,Fully Furnished,44041,2273,3.2,43373.0,668.0
+497,Baner,3,1496,Fully Furnished,40622,3793,2.8,41105.0,-483.0
+498,Wakad,1,612,Semi-Furnished,12532,3235,0.5,12993.0,-461.0
+499,Wakad,2,1281,Fully Furnished,32458,2583,1.7,31803.0,655.0
+500,Wakad,1,577,Fully Furnished,21778,3074,4.4,20681.0,1097.0
