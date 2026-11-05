@@ -3,7 +3,7 @@ import pandas as pd
 import random
 
 # 1. Connect to SQLite (creates the file 'rental_analyzer.db' in your folder)
-conn = sqlite3.connect('../data/rental_analyzer.db')
+conn = sqlite3.connect('data/rental_analyzer.db')
 cursor = conn.cursor()
 
 # 2. Define the SQL Schema

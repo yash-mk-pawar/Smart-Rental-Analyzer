@@ -3,7 +3,7 @@ import joblib
 
 # 1. Load the trained model
 # Ensure the script looks in the models/ directory
-model = joblib.load('../models/rental_rf_model.pkl')
+model = joblib.load('models/rental_rf_model.pkl')
 
 # Scikit-learn remembers the exact columns used during training
 expected_cols = model.feature_names_in_
